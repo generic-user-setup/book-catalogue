@@ -1,2 +1,4 @@
-# book-catalogue
-Catalogue including tags and meta data
+# Catalogue of Books and Organization for Property Kindle
+* Metadata tag structure
+* Catalogue
+* Process to update
