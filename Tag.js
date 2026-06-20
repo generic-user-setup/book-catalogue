@@ -118,7 +118,7 @@ export default function TagCheatSheet() {
       {/* Header */}
       <div style={{ textAlign: "center", borderBottom: "3px solid #5a3e2b", paddingBottom: 20, marginBottom: 32 }}>
         <div style={{ fontSize: 36, marginBottom: 8 }}>🏕️</div>
-        <h1 style={{ fontSize: 28, color: "#3b2612", margin: "0 0 6px", letterSpacing: 2, textTransform: "uppercase" }}>Cabin Library</h1>
+        <h1 style={{ fontSize: 28, color: "#3b2612", margin: "0 0 6px", letterSpacing: 2, textTransform: "uppercase" }}>PROPERTY NAME Library</h1>
         <p style={{ fontSize: 16, color: "#7a5c3e", margin: "0 0 10px", fontStyle: "italic" }}>Tag & Symbol Guide</p>
         <p style={{ fontSize: 13, color: "#9a7a5a", margin: 0, fontFamily: "sans-serif" }}>
           Use this guide to read the tags on any book in the catalogue.
@@ -171,7 +171,7 @@ export default function TagCheatSheet() {
       }}>
         <p style={{ fontSize: 13, color: "#9a7a5a", fontStyle: "italic", margin: 0, fontFamily: "sans-serif" }}>
           Books are tagged for your comfort, not your judgment.<br />
-          Everything here is welcome at this cabin.
+          Everything here is welcome here.
         </p>
       </div>
     </div>
